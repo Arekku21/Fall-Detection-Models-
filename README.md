@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is a Fall Detection System that comprises of two architecturally contiguous modules. An object detection module and a fall detection module. Use the instructions below to run the model. Feel free to reach out to any of the contributors should you need more information about the project.
+This is a Fall Detection System that comprises of two architecturally contiguous modules. An object detection module and a fall detection module. Use the instructions below to run the model. Feel free to reach out to any of the contributors should you need more information about the project. The updated zip file with all the models and dataset is availble here (https://drive.google.com/file/d/1LhneNvPqpuc8oekfFjwYH1m2iSyOnSrF/view?usp=sharing)
 
 ## Getting Started <a name = "getting_started"></a>
 
